@@ -10,7 +10,7 @@
                 <div class="col-7">
                     <div class="row">
                         <div class="col">
-                            <h6>Link title</h6>
+                            <h6 class="px-3">Link title</h6>
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item"><a href="#" class="text-decoration-none text-dark"> An item </a></li>
                                 <li class="list-group-item"><a href="#" class="text-decoration-none text-dark"> A second item</a></li>
@@ -20,7 +20,7 @@
                             </ul>
                         </div>
                         <div class="col">
-                            <h6>Link title</h6>
+                            <h6 class="px-3">Link title</h6>
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item"><a href="#" class="text-decoration-none text-dark"> An item </a></li>
                                 <li class="list-group-item"><a href="#" class="text-decoration-none text-dark"> A second item</a></li>
@@ -30,7 +30,7 @@
                             </ul>
                         </div>
                         <div class="col">
-                            <h6>Link title</h6>
+                            <h6 class="px-3">Link title</h6>
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item"><a href="#" class="text-decoration-none text-dark"> An item </a></li>
                                 <li class="list-group-item"><a href="#" class="text-decoration-none text-dark"> A second item</a></li>
